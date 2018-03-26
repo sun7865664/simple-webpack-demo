@@ -1,1 +1,1 @@
-"# simple-webpack-demo" 
+# simple-webpack-demo
